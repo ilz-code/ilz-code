@@ -15,7 +15,7 @@ Main skills:
 
 Till now, my best projects are:
 - Scooter Rental (https://github.com/ilz-code/ScooterRental)
--  C# project dealing with possibilities to rent scooters (or anithing else), calculate price   of the rental event and income of the specified year
+  C# project dealing with possibilities to rent scooters (or anithing else), calculate price   of the rental event and income of the specified year
 - Flight Planner (https://github.com/ilz-code/FlightPlanner)
--  Web application using database for searching available flights
+  Web application using database for searching available flights
 
