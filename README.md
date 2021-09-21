@@ -1,16 +1,21 @@
-### Hi there 👋
+I am Softvare Developer 
+at CODELEX (https://www.codelex.io/uznemumiem)
+Continuously seeking new challenges and non-traditional solutions
+Main skills:
+- C#
+- .Net
+- Relational Databses & SQL
+- HTTP & Web API Basics
+- Unit Testing
+- Test Driven Development
+- Clean Code, SOLID
+- Design Patterns
+- HTML & CSS, React, TypeScript & NodeJS basics
+- Java
 
-<!--
-**ilz-code/ilz-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Till now, my best projects are:
+Scooter Rental (https://github.com/ilz-code/ScooterRental)
+      C# project dealing with possibilities to rent scooters (or anithing else), calculate price of the rental event and income of the specified year
+Flight Planner (https://github.com/ilz-code/FlightPlanner)
+      Web application using database for searching available flights
 -->
