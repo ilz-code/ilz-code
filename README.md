@@ -1,5 +1,4 @@
-## I am Softvare Developer  
-at CODELEX (https://www.codelex.io/uznemumiem)   
+## I am Softvare Developer   
 Continuously seeking new challenges and non-traditional solutions   
 Main skills:
 - C#
