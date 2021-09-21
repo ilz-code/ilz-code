@@ -1,7 +1,7 @@
-I am Softvare Developer 
--at CODELEX (https://www.codelex.io/uznemumiem)
--Continuously seeking new challenges and non-traditional solutions
--Main skills:
+I am Softvare Developer \n
+at CODELEX (https://www.codelex.io/uznemumiem) \n
+Continuously seeking new challenges and non-traditional solutions \n
+Main skills:\n
 - C#
 - .Net
 - Relational Databses & SQL
